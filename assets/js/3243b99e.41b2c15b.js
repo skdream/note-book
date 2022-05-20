@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_note_book=self.webpackChunkreact_note_book||[]).push([[8643],{5720:function(o){o.exports=JSON.parse('{"label":"facebook","permalink":"/note-book/blog/tags/facebook","allTagsPath":"/note-book/blog/tags","count":1}')}}]);

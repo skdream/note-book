@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkreact_note_book=self.webpackChunkreact_note_book||[]).push([[7516],{3984:function(o){o.exports=JSON.parse('{"label":"docusaurus","permalink":"/note-book/blog/tags/docusaurus","allTagsPath":"/note-book/blog/tags","count":4}')}}]);
